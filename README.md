@@ -23,7 +23,13 @@ In professional environments, large codebases often contain excessive comments t
 
 ## Tech Stack
 - Python 3
-  
+
+ ## Learning Outcomes
+- Gained practical experience with file input and output in Python  
+- Improved understanding of string manipulation  
+- Learned how to structure a small utility script  
+- Understood how to make code more readable and reusable
+ 
 ## Future Improvements
 - Inline comment removal
 - Multi-language support
